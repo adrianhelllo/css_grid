@@ -22,4 +22,5 @@ body {
 .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr 2fr);
+    grid-auto-rows: 200px;
 }
