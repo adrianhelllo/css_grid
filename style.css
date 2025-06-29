@@ -33,8 +33,9 @@ body {
     grid-row: 1 / 3;
 
     display: grid;
-    align-content: center;
-    justify-content: center;
+    /* align-content: end;
+    justify-content: center; */
+    place-content: end center;
 }
 
 .box:nth-child(2) {
