@@ -18,3 +18,7 @@ body {
     font-size: 2rem;
     padding: 0.5rem;
 }
+
+.container {
+    display: grid;
+}
