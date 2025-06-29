@@ -24,5 +24,5 @@ body {
     min-height: 400px;
     grid-template-columns: repeat(2, 1fr 2fr);
     grid-auto-rows: minmax(150px, auto);
-    row-gap: 1rem;
+    gap: 1em 1.5em;
 }
